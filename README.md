@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I am Shoaib Akhtar
 🔭 I’m an India based Frontend Developer and aspiring UX/UI Designer.<br>🌱 I’m currently learning ReactJs and starting to get hands on Backend Development as well.<br>💬 I'm open to work, Feel free to contact me!<br>⚡ Fun fact: I love Animes :D
 
 
